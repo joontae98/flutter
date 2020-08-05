@@ -1,2 +1,2 @@
 # flutter
-info about flutter
+info about **flutter**
